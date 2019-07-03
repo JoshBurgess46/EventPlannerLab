@@ -1,0 +1,7 @@
+C:\Users\JoshB\source\repos\Deliverable1 FunStuffToDo\Deliverable1 FunStuffToDo\bin\Debug\Deliverable1 FunStuffToDo.exe.config
+C:\Users\JoshB\source\repos\Deliverable1 FunStuffToDo\Deliverable1 FunStuffToDo\bin\Debug\Deliverable1 FunStuffToDo.exe
+C:\Users\JoshB\source\repos\Deliverable1 FunStuffToDo\Deliverable1 FunStuffToDo\bin\Debug\Deliverable1 FunStuffToDo.pdb
+C:\Users\JoshB\source\repos\Deliverable1 FunStuffToDo\Deliverable1 FunStuffToDo\obj\Debug\Deliverable1 FunStuffToDo.csprojAssemblyReference.cache
+C:\Users\JoshB\source\repos\Deliverable1 FunStuffToDo\Deliverable1 FunStuffToDo\obj\Debug\Deliverable1 FunStuffToDo.csproj.CoreCompileInputs.cache
+C:\Users\JoshB\source\repos\Deliverable1 FunStuffToDo\Deliverable1 FunStuffToDo\obj\Debug\Deliverable1 FunStuffToDo.exe
+C:\Users\JoshB\source\repos\Deliverable1 FunStuffToDo\Deliverable1 FunStuffToDo\obj\Debug\Deliverable1 FunStuffToDo.pdb
